@@ -1,2 +1,1 @@
 # Skill-Test
-Skill Test
